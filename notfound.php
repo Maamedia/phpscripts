@@ -43,12 +43,12 @@ a:hover { text-decoration: underline; }
 em { color: #72777d; font-style: normal; }
 </style>
 <div class="content" role="main">
-<a href="https://crm.maantietaja.org/projects"><img src="https://commons.maantietaja.org/images/6/69/Maamedia_Logo_Black.png" srcset="https://commons.maantietaja.org/images/6/69/Maamedia_Logo_Black.png 2x" alt=Maamedia width=135 height=135></a>
+<a href="https://crm.maamedia.org/projects"><img src="https://commons.maamedia.org/images/6/69/Maamedia_Logo_Black.png" srcset="https://commons.maamedia.org/images/6/69/Maamedia_Logo_Black.png 2x" alt=Maamedia width=135 height=135></a>
 <h1>Page not found :(</h1>
 <p><em>$encUrl</em></p>
 <p>We could not find the above page on our servers.</p>
 <p><b>Did you mean: <a href="$encTarget">$encTarget</a></b></p>
-<p style="clear:both;">It could be that you misspelled the title or the page just simply doesn’t exist. You can read on Maamedia Meta's <a href="https://meta.maantietaja.org/wiki/404">page</a> why such an announcement.</p>
+<p style="clear:both;">It could be that you misspelled the title or the page just simply doesn’t exist. You can read on Maamedia Meta's <a href="https://meta.maamedia.org/wiki/404">page</a> why such an announcement.</p>
 </div>
 </html>
 END;
